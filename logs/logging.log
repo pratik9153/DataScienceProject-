@@ -36,3 +36,28 @@ Source-Age: 0
 2026-09-17 22:50:09,289: INFO: main: >>>>>  stage Data Ingestion Stage completed <<<<<<
 
 x=====x
+2026-09-18 12:20:25,772: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 12:20:25,799: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 12:20:25,809: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 12:20:25,813: INFO: common: create directory at: artifacts
+2026-09-18 12:20:25,817: INFO: common: create directory at: artifacts/data_validation
+2026-09-18 12:44:29,745: INFO: main: Welcome to logging
+2026-09-18 12:44:29,775: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<
+2026-09-18 12:44:29,779: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 12:44:29,780: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 12:44:29,785: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 12:44:29,786: INFO: common: create directory at: artifacts
+2026-09-18 12:44:29,787: INFO: common: create directory at: artifacts/data_ingestion
+2026-09-18 12:44:29,789: INFO: data_ingestion: File already exists
+2026-09-18 12:44:29,814: INFO: main: >>>>>  stage Data Ingestion Stage completed <<<<<<
+
+x=====x
+2026-09-18 12:44:29,814: INFO: main: >>>>>> stage Data Validation stage started <<<<<<
+2026-09-18 12:44:29,818: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 12:44:29,820: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 12:44:29,825: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 12:44:29,826: INFO: common: create directory at: artifacts
+2026-09-18 12:44:29,827: INFO: common: create directory at: artifacts/data_validation
+2026-09-18 12:44:29,873: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x
