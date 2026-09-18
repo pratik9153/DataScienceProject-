@@ -61,3 +61,40 @@ x=====x
 2026-09-18 12:44:29,873: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x
+2026-09-18 12:57:33,920: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 12:57:33,922: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 12:57:33,932: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 12:57:33,936: INFO: common: create directory at: artifacts
+2026-09-18 12:57:33,948: INFO: common: create directory at: artifacts/data_transformation
+2026-09-18 12:57:34,008: INFO: 1726353244: Splited data into training and test sets
+2026-09-18 12:57:34,009: INFO: 1726353244: (1199, 12)
+2026-09-18 12:57:34,011: INFO: 1726353244: (400, 12)
+2026-09-18 13:40:33,468: INFO: main: Welcome to logging
+2026-09-18 13:40:33,469: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<
+2026-09-18 13:40:33,473: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 13:40:33,478: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 13:40:33,481: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 13:40:33,482: INFO: common: create directory at: artifacts
+2026-09-18 13:40:33,484: INFO: common: create directory at: artifacts/data_ingestion
+2026-09-18 13:40:33,485: INFO: data_ingestion: File already exists
+2026-09-18 13:40:33,491: INFO: main: >>>>>  stage Data Ingestion Stage completed <<<<<<
+
+x=====x
+2026-09-18 13:40:33,491: INFO: main: >>>>>> stage Data Validation stage started <<<<<<
+2026-09-18 13:40:33,498: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 13:40:33,501: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 13:40:33,513: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 13:40:33,515: INFO: common: create directory at: artifacts
+2026-09-18 13:40:33,515: INFO: common: create directory at: artifacts/data_validation
+2026-09-18 13:40:33,570: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x
+2026-09-18 13:40:33,570: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<
+2026-09-18 13:40:33,577: INFO: common: yaml file : config\config.yaml loaded sucessfully
+2026-09-18 13:40:33,579: INFO: common: yaml file : params.yaml loaded sucessfully
+2026-09-18 13:40:33,582: INFO: common: yaml file : schema.yaml loaded sucessfully
+2026-09-18 13:40:33,583: INFO: common: create directory at: artifacts
+2026-09-18 13:40:33,584: INFO: common: create directory at: artifacts/data_transformation
+2026-09-18 13:40:33,585: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x
